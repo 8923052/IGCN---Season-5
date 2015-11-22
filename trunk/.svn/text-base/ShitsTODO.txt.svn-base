@@ -1,0 +1,38 @@
+1.  Visual Effect for Swell Life --------------------------------------------------- OK
+2.  Panda Pet visuala after relog -------------------------------------------------------- OK
+3.  Twisting Slash - check 
+4.  active skill in skill tree
+5.  Small Santas - no time left apear on buff icon
+6.  No dialog window on snowman "would you like to go back town?"
+7.  Santa Town ticket - no info on second try to enter the map that is able to enter the map one time daily
+8.  IT ticket - durability fucked up on chaos machine mix
+9.  IT ticket does not show info on how long to open on rmc --------------------------- OK
+10. rudolf pet - visual
+11. panda pet - cannot be sold in shop/traded
+
+12. add:
+- ring (13,109) - auto hp recovery 3%, Increase max mana 4%
+- ring (13,110) - auto hp recovery 3%, Increase max hp 4%
+- ring (13,111) - auto hp recovery 3%, zen drop increase +30%
+- ring (13,112) - auto hp recovery 3%, damage decrease +4%
+- firecracker (14,63) - add itembag for this (name as item name) + drop effect + check firecracker drop on firecracker event
+- xmas firecracker (14,99) - add itembag (name as item name) + drop effect + I do not know where it shoudl drop
+- xmas star - add item bag (name as item name) + drop effect
+
+13. hallowen stuff
+- jack o lantern blessing (14,46) - not working, attack speed increase + 10 + buff icon (I do not know is there should me time left apear on the buff icon)
+- jack o lantern wrath (14,47) - attack power increase +25 + buff icon (I do not know is there should me time left apear on the buff icon)
+- jack o lantern cry (14,48) - defense power increase +100 + buff icon (I do not know is there should me time left apear on the buff icon)
+- jack o lantern food (14,49) - not working/not working properly - check how it should work originaly
+- jack o lantern drink (14,50) - not working/not working properly - check how it should work originaly
+
+14. deamon cannot be sold in shop / traded
+15. panda ring cannot be sold in shop / traded
+
+elite healing potion (14,70) - selling in shop / trading / recover hp 100% / support under QWER
+Elite mana potion (14,71) - selling in shop / trading / recover mana 100% / support under QWER
+cherry blossom box (14, 84) - add item bag (name as item name)
+cherry blossom flower petal (14,87) - attack power increment +40, should work for 30 minutes as it is apearing on item (only when player online)
+cherry blossom wine (14,85) - +700 mana increment, should work for 30 minutes as it is apearing on item (only when player online)
+cherry blossom rice cake (14,86) + 700 life increment, should work for 30 minutes as it is apearing on item (only when player online)
+(14,96) <- need to investigate if this talisman works

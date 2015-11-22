@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/igcn/!svn/ver/3/include
+END
+MuMsg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/igcn/!svn/ver/3/include/MuMsg.dll
+END
+mumsg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/igcn/!svn/ver/3/include/mumsg.exp
+END
+prodef.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/igcn/!svn/ver/3/include/prodef.h
+END
+ReadScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/igcn/!svn/ver/3/include/ReadScript.h
+END
+SimpleModulus.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/igcn/!svn/ver/3/include/SimpleModulus.lib
+END
+CSAuth.lib
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/igcn/!svn/ver/3/include/CSAuth.lib
+END
+mumsgold.lib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/igcn/!svn/ver/3/include/mumsgold.lib
+END
+MuMsg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/igcn/!svn/ver/3/include/MuMsg.lib
+END

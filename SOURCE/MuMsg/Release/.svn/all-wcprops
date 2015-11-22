@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/igcn/!svn/ver/3/SOURCE/MuMsg/Release
+END
+MuMsg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/igcn/!svn/ver/3/SOURCE/MuMsg/Release/MuMsg.dll
+END
+MuMsg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/igcn/!svn/ver/3/SOURCE/MuMsg/Release/MuMsg.exp
+END
+MuMsg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/igcn/!svn/ver/3/SOURCE/MuMsg/Release/MuMsg.lib
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/igcn/!svn/ver/20/hooks
+END
+pre-revprop-change.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/igcn/!svn/ver/20/hooks/pre-revprop-change.tmpl
+END
+post-commit.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/igcn/!svn/ver/20/hooks/post-commit.tmpl
+END
+post-lock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/igcn/!svn/ver/20/hooks/post-lock.tmpl
+END
+pre-commit.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/igcn/!svn/ver/20/hooks/pre-commit.tmpl
+END
+pre-lock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/igcn/!svn/ver/20/hooks/pre-lock.tmpl
+END
+post-unlock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/igcn/!svn/ver/20/hooks/post-unlock.tmpl
+END
+pre-unlock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/igcn/!svn/ver/20/hooks/pre-unlock.tmpl
+END
+post-revprop-change.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/igcn/!svn/ver/20/hooks/post-revprop-change.tmpl
+END
+start-commit.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/igcn/!svn/ver/20/hooks/start-commit.tmpl
+END

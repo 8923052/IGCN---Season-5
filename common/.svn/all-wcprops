@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/igcn/!svn/ver/14/common
+END
+TSync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/igcn/!svn/ver/3/common/TSync.cpp
+END
+winutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/igcn/!svn/ver/3/common/winutil.h
+END
+SetItemOption.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/igcn/!svn/ver/3/common/SetItemOption.cpp
+END
+WZScriptEncode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/igcn/!svn/ver/3/common/WZScriptEncode.cpp
+END
+ReadScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/igcn/!svn/ver/3/common/ReadScript.h
+END
+TSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/igcn/!svn/ver/3/common/TSync.h
+END
+SetItemOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/igcn/!svn/ver/3/common/SetItemOption.h
+END
+WZScriptEncode.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/igcn/!svn/ver/3/common/WZScriptEncode.h
+END
+zzzitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/igcn/!svn/ver/23/common/zzzitem.cpp
+END
+MyWinsockBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/igcn/!svn/ver/3/common/MyWinsockBase.cpp
+END
+zzzpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/igcn/!svn/ver/3/common/zzzpath.h
+END
+zzzitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/igcn/!svn/ver/23/common/zzzitem.h
+END
+MyWinsockBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/igcn/!svn/ver/3/common/MyWinsockBase.h
+END
+WzMemScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/igcn/!svn/ver/3/common/WzMemScript.cpp
+END
+classdef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/igcn/!svn/ver/3/common/classdef.cpp
+END
+classdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/igcn/!svn/ver/3/common/classdef.h
+END
+WzMemScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/igcn/!svn/ver/3/common/WzMemScript.h
+END
+winutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/igcn/!svn/ver/3/common/winutil.cpp
+END

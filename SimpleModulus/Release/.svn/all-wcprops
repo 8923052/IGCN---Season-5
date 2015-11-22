@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/igcn/!svn/ver/3/SimpleModulus/Release
+END
+StdAfx.obj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/igcn/!svn/ver/3/SimpleModulus/Release/StdAfx.obj
+END
+SimpleModulus.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/igcn/!svn/ver/3/SimpleModulus/Release/SimpleModulus.lib
+END
+SimpleModulus.obj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/igcn/!svn/ver/3/SimpleModulus/Release/SimpleModulus.obj
+END
+SimpleModulus.pch
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/igcn/!svn/ver/3/SimpleModulus/Release/SimpleModulus.pch
+END
+vc60.idb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/igcn/!svn/ver/3/SimpleModulus/Release/vc60.idb
+END
